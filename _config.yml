@@ -108,3 +108,5 @@ defaults:
      type: bios
     values:
      layout: default #bio
+
+theme: jekyll-theme-slate
