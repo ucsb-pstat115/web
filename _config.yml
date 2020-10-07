@@ -5,13 +5,13 @@ plugins:
 remote_theme: ucsb-cs-course-repos/course-repo-jekyll-theme
 
 url: https://ucsb-ds.github.io # the base hostname & protocol for your site
-baseurl: "/s20"  # the subpath of your site "/" for main, "/w19" for instance
+baseurl: "/web"  # the subpath of your site "/" for main, "/w19" for instance
 
-title: "UCSB DS100"
-course: "DS100"
-github_url: https://github.com/ucsb-ds/s20
-qtr: "S20"
-quarter: "Spring 2020"
+title: "PSTAT 115"
+course: "PSTAT 115"
+github_url: https://github.com/ucsb-pstat/web
+qtr: "F20"
+quarter: "Fall 2020"
 
 suppress_footer: true # hide the footer
 
