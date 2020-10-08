@@ -16,12 +16,12 @@ production_url: https://ucsb-pstat115.github.io/
 home:
    title: UCSB PSTAT 115
    url: /
-   baseurl: /
+   baseurl: /web
 
 offerings:
    title: <b>PSTAT 115 F20</b>
    url: /	
-   baseurl: /
+   baseurl: /web
 
 
 offering_links:
@@ -31,7 +31,7 @@ offering_links:
 
   - title: Weekly schedule
     dropdown:
-    url: /info/schedule/
+    url: /schedule/
     description: "Lecture + Office Hours"
 
   - title: Links
