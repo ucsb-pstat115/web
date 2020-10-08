@@ -36,7 +36,7 @@ With that in mind, we are very excited to share this course with you. We want yo
 * **Lecture**: Monday and Wednesday, 11:00am-12:15pm
 
 ## Prerequisites: <a name="prerequisites"></a>
-PSTAT 120A, CS 9 or CS 16, and Math 4a.  All prerequisites with letter grade C or better.  PSTAT 120B can be taken concurrently.
+PSTAT 10 , PSTAT 120B, an PSTAT126 or equivalent.  All prerequisites with letter grade C or better.
 
 ## Course Description: <a name="course-description"></a>
 
@@ -49,7 +49,7 @@ for statistical inference.  Topics include:
 - Review of frequentist inference
 - One parameter models
 - Monte Carlo computation
-- The normal model\\
+- The normal model
 - Markov chain Monte Carlo
 - Hierarchical models
 - An introduction to probabilistic programming
@@ -79,9 +79,10 @@ We will be using Zoom to hold office hours and lab hours.
 # ASSESSMENTS AND GRADES<a name="grades"></a>
 Your mastery of class material will be assessed in the following ways, and final grades will be computed as follows:
 *	5% Class Participation
+*	10% Quizzes
 *	35% Homework Assignments
-  *	% Midterm Exam (due )
-*	30% Final Exam (due )
+*  20% Midterm Exam (Take home, due November 9, 2020)
+*	30% Final Exam (Take home, due Monday December 16, 2020)
 
 It is certainly possible for all students to receive high grades in this course if all of you show mastery of the homework and lab material.
 
