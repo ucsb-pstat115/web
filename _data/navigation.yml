@@ -21,11 +21,11 @@ home:
 offerings:
    title: <b>F20</b>
    url: /
-   baseurl: /F20
+   baseurl: /web
    items:
       - title: F20
         url: /
-        baseurl: /F20
+        baseurl: /web
 
 
 offering_links:
