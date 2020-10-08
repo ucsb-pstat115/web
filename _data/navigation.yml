@@ -34,7 +34,6 @@ offering_links:
     description: "University and course policies"    
 
   - title: Weekly schedule
-    dropdown:
     url: /info/schedule/
     description: "Lecture + Office Hours"
 
