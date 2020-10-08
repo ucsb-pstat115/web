@@ -32,82 +32,80 @@ With that in mind, we are very excited to share this course with you. We want yo
 
 # COURSE INFORMATION <a name="course-info"></a>
 
-* **Instructors**: Alex Franks and Yekaterina Kharitonova (Prof. K)
-* **Lecture**: Tuesday and Thursday, 11:00am-12:15pm, Zoom []()
-* **Lab / Discussion Sections**:
-  * Wednesday, 1-1:50
-  * Wednesday, 2-2:50
-  * Wednesday, 3-3:50
-* **Office Hours** TBD
+* **Instructor**: Alex Franks
+* **Lecture**: Monday and Wednesday, 11:00am-12:15pm
 
 ## Prerequisites: <a name="prerequisites"></a>
 PSTAT 120A, CS 9 or CS 16, and Math 4a.  All prerequisites with letter grade C or better.  PSTAT 120B can be taken concurrently.
 
 ## Course Description: <a name="course-description"></a>
-Overview of data science key concepts and the use of tools for data retrieval, analysis, visualization and, reproducible research with Python. Topics include an introduction to testing and uncertainty quantification via simulation, an introduction to regression, principles of measurement, missing data, and concepts in data ethics and privacy. Case studies will illustrate the importance of domain knowledge.  
- 
-This course is primarily designed for students who are interested in data science and are majoring in Statistical Science (BS, BA), Actuarial Science (BS), Financial Mathematics and Statistics (BS), CCS Computing (BS), or Computer Science (BS). It is also suitable for students aiming for a Minor in Statistics.  It serves as a complement to PSTAT 120B and a gateway to more advanced data science material. 
 
 
 ## Course Topics:<a name="topics"></a>
-- Data formats, types, and data cleaning
-- Data structures and necessary operations on them (e.g., Pandas, dataframes vs. series, functions)
-- Principles of effective visualizations
-- Exploratory Data Analysis (EDA)
-- Missing data and measurement
-- Introduction to regression
-- Uncertainty quantification via simulation
-- Optimization
-- Data ethics and privacy
+At the end of the course, a successful student will be able to  build and refine
+statistical models using the Bayesian paradigm and utilize Monte Carlo methods
+for statistical inference.  Topics include:
+
+- Review of frequentist inference
+- One parameter models
+- Monte Carlo computation
+- The normal model\\
+- Markov chain Monte Carlo
+- Hierarchical models
+- An introduction to probabilistic programming
 
 ## Textbook
-A useful python reference text is an online book called  [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+- **Required:** Peter Hoff __A First Course in Bayesian Statistical Methods__ ;
+[https://www.springer.com/us/book/9780387922997](https://www.springer.com/us/book/9780387922997).
+(pdf available on the cloud environment)
+- **Optional:** Jim Albert __Bayesian Computation with R__ [https://www.springer.com/us/book/9780387922973](https://www.springer.com/us/book/9780387922973)
+- **Optional:** Richard McElreath __Statistical Rethinking__;  [https://xcelab.net/rm/statistical-rethinking/](https://xcelab.net/rm/statistical-rethinking/)
+- **Optional:** Andrew Gelman, John Carlin et al. __Bayesian
+        Data Analysis__;  [http://www.stat.columbia.edu/~gelman/book/](http://www.stat.columbia.edu/~gelman/book/)
 
-The computing platform (Jupyter Notebooks) for the course is hosted at [https://ds100.lsit.ucsb.edu/](https://ds100.lsit.ucsb.edu/).  *All of your work should be completed here.*
+The computing platform (Jupyter Notebooks) for the course is hosted at [https://bit.ly/3kZ2sVr](https://ds100.lsit.ucsb.edu/).  *All of your work should be completed here.*
 
 
 #### Contact us on Piazza!
-We will be communicating with you and making announcements through an online question-and-answer platform called [Piazza](http://piazza.com). Our class page is here: [https://piazza.com/class/k7l3jegotl95vg](https://piazza.com/class/k7l3jegotl95vg)
+We will be communicating with you and making announcements through an online question-and-answer platform called [Piazza](http://piazza.com). Our class page is here: [https://piazza.com/ucsb/fall2020/pstat115](https://piazza.com/ucsb/fall2020/pstat115)
 
 We ask that when you have a question about the class that might be relevant to other students, post it on Piazza **instead of emailing us** (if you wish, you can post your question anonymously to your classmates). That way, all the staff can be on the same page and everyone can benefit from the response. You can also post private messages to instructors on Piazza, which we prefer to email.
 
 ## Support
 You are not alone in this course; the mentors (staff and the instructors) are here to support you as you learn the material. It's expected that some aspects of the course will take time to master, and the best way to master challenging material is to ask questions. 
 
-We will be using Zoom to hold office hours and lab hours.  
+We will be using Zoom to hold office hours and lab hours.
 
 # ASSESSMENTS AND GRADES<a name="grades"></a>
 Your mastery of class material will be assessed in the following ways, and final grades will be computed as follows:
 *	5% Class Participation
-*	50% Homework Assignments
-*	25% Labs
-*	20% Final Project (due Wednesday, June 10)
+*	35% Homework Assignments
+  *	% Midterm Exam (due )
+*	30% Final Exam (due )
 
 It is certainly possible for all students to receive high grades in this course if all of you show mastery of the homework and lab material.
 
 ## Participation <a name="participation"></a>
-Lecture attendance is optional but is *highly* encouraged. You are adults and are responsible for your learning. However, everybody benefits when there is more participation and engagement with the material during lab and lecture.
+Lecture and section attendance is optional but is *highly* encouraged. You are adults and are responsible for your learning. However, everybody benefits when there is more participation and engagement with the material during lab and lecture.
 
 The participation portion of your grade will also include providing good answers on Piazza and engaging with the various activities that the instructor will provide throughout the quarter.
 
 ## Assignments <a name="hwk"></a>
-Data science is about analyzing real-world data sets, and so a series of projects involving real data are a required part of the course. You may work with one partner, and we strongly recommend that you find a partner in your lab section.
 
 Weekly homework assignments are a required part of the course. Each student must submit each homework independently, but you are allowed to discuss problems with other students without directly sharing the answers. Make a serious attempt at the assignment yourself, and then discuss your doubts with others. In this way you, and they, will get more out of the discussion. Please write up your answers in your own words and don't share your completed work. *You are never allowed to directly copy and paste somebody else's code*.
 
 ## Labs
 
-Weekly labs are a required part of the course. To receive credit, we encourage you to work on the lab assignment during th eassigned time until you're finished or the lab period is over. Labs will be released on Tuesday night. If you cannot attend lab physically, you may complete a lab assignment remotely, but you must complete it by Friday at 5pm to receive credits. Each person must submit each lab independently, but you are encouraged to collaborate with other students during lab time via chat.
+
 
 ## Exams
-There will be no exams in this course.  
+
 
 ## Late Policy<a name="late-policy"></a>
 
-Homework will be accepted up to 2 days (48 hours) late; a homework submitted less than 24 hours after the deadline will receive 3/4 credit, a homework submitted between 24 and 48 hours after the deadline will receive 1/2 credit, and a homework submitted 48 hours or more after the deadline will receive no credit.
+Homework will be accepted up to 1 day (24 hours) late; a homework submitted within 24 hours after the deadline will receive a 10 point deduction.  No assignments will be accepted 24 hours after the deadline. 
 
 If there is a properly documented family emergency, extended illness, documented required court appearance, or other situation beyond the students’ control (with appropriate official detailed documentation) the instructor may extend an assignment deadline, entirely at the instructor’s discretion. 
-
 
 ## Learning Cooperatively
 We encourage you to discuss all of the course activities with your friends and classmates as you are working on them, either on Piazza, or through a personally chat or zoom. Although more difficult this quarter, you will definitely learn more in this class if you work with others than if you do not. Ask questions, answer questions, and share ideas liberally on piazza.  
@@ -122,7 +120,7 @@ Rather than copying someone else's work, ask for help. You are not alone in this
 
 ## Slides and Recordings <a name="recordings"></a>
 
-All lecture material including slides will be posted on the website after class.  Recordings of the lectures will also be posted.  
+All lecture material including slides will be posted after class on the cloud server.  Recordings of the lectures will also be posted.
 
 ## Copyright of Course Materials <a name="copyright"></a>
 
@@ -137,10 +135,7 @@ Similarly, you own the copyright in your original papers and exam essays. If I a
 
 ## Disclaimer
 
-The rest of this page details the policies that will be enforced in the **Spring 2020** offering of this course. These policies are subject to change throughout the remainder of the course, at the judgement of the course staff (with a potential announcement on Piazza).
+The rest of this page details the policies that will be enforced in the **Fall 2020** offering of this course. These policies are subject to change throughout the remainder of the course, at the judgement of the course staff (with a potential announcement on Piazza).
 
 
-Last major revision: March, 2020
-
-Updated: 
-* 03/30/2020 live version of the syllabus
+Last major revision: October 8, 2020
