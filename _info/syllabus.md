@@ -27,13 +27,16 @@ Below are the links to different sections of the syllabus:
     
 
 ## An Opening Thought
-This is a very stressful and unusual time for all of us.  We recognize that many of you are sheltering in different parts of the world. First and foremost over the next couple of months, make sure you take care of yourselves and your families.  
-With that in mind, we are very excited to share this course with you. We want you to learn and have a great time in the process. Let this class be an escape from some of the uncertainty in the rest of the world.  Welcome to Data Science Principles & Techniques!
+This is a very stressful and unusual time for all of us.  We recognize that many
+of you are sheltering in different parts of the world. First and foremost, make
+sure you take care of yourselves and your friends and family. With that in mind, we are very excited to share this course with you. We want you to learn and have a great time in the process. Let this class be an escape from some of the uncertainty in the rest of the world. 
 
 # COURSE INFORMATION <a name="course-info"></a>
 
 * **Instructor**: Alex Franks
 * **Lecture**: Monday and Wednesday, 11:00am-12:15pm
+* **TAs**: Dorothy Li and Xubo Liu
+* **ULA** Mathew Coleman
 
 ## Prerequisites: <a name="prerequisites"></a>
 PSTAT 10 , PSTAT 120B, an PSTAT126 or equivalent.  All prerequisites with letter grade C or better.
