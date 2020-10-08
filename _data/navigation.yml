@@ -21,11 +21,8 @@ home:
 offerings:
    title: <b>PSTAT 115 F20</b>
    url: /	
-   baseurl: /web
-   items:
-      - title: F20
-        url: /
-        baseurl: /web
+   baseurl: /
+
 
 offering_links:
   - title: Syllabus
@@ -44,9 +41,6 @@ offering_links:
         description: "Sync material to the cloud"
       - title: Piazza
         url: https://piazza.com/ucsb/fall2020/pstat115
-      - title: Calender
-        url: https://ucsb-pstat115.github.io/web/info/staff/
-        description: Lecture, section and office hours
       - title: Lecture link
         url: https://ucsb.zoom.us/j/86937803425?pwd=cnNnOUhZWUlkc2ZvN3JWUENiWGVmUT09
         description: zoom link to lecture
