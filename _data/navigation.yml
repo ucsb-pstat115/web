@@ -31,15 +31,7 @@ offering_links:
   - title: Syllabus
     url: /info/syllabus/
     description: "University and course policies"    
-  # - title: Calendar
-  #   url: /info/calendar/
-  #   description: "Assignment Calendar"
-  # - title: Assignments
-  #   url: /work_list/
-  #   description: "Homework and Lab Assignments"
-  # - title: Lectures
-  #   url: /lec_list/
-  #   description: "Lecture-related information"
+
   - title: Weekly schedule
     dropdown:
     url: /info/schedule/

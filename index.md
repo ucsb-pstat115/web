@@ -49,4 +49,4 @@ required.
 Learning by doing will require software documentation, experimenting by trial-and-error, and lots of debugging. 
 We are looking for self-motivated students with diverse interests in data science.
 
-Link to this page: <https://ucsb-pstat.github.io/web>
+Link to this page: <https://ucsb-pstat115.github.io/web>
