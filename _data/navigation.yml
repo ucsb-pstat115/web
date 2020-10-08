@@ -19,9 +19,13 @@ home:
    baseurl: /web
 
 offerings:
-   title: <b>PSTAT 115 F20</b>
-   url: /	
-   baseurl: /web
+   title: <b>F20</b>
+   url: /
+   baseurl: /F20
+   items:
+      - title: F20
+        url: /
+        baseurl: /F20
 
 
 offering_links:
