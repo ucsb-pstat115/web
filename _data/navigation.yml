@@ -7,7 +7,7 @@
 #    https://ucsb-cs24.github.io/s19
 #    etc.
 
-production_url: https://ucsb-pstat.github.io/
+production_url: https://ucsb-pstat115.github.io/
 
 # List the title and url for each item on navigation bar.
 # For items that should be relative urls, put the baseurl of the site
