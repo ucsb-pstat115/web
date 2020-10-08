@@ -35,7 +35,7 @@ offering_links:
 
   - title: Weekly schedule
     dropdown:
-    url: /schedule/
+    url: /info/schedule/
     description: "Lecture + Office Hours"
 
   - title: Links
