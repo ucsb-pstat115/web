@@ -23,7 +23,7 @@ offerings:
    url: /	
    baseurl: /web
    items:
-      - title: S20
+      - title: F20
         url: /
         baseurl: /web
 
@@ -31,28 +31,37 @@ offering_links:
   - title: Syllabus
     url: /info/syllabus/
     description: "University and course policies"    
-  - title: Calendar
-    url: /info/calendar/
-    description: "Assignment Calendar"
-  - title: Assignments
-    url: /work_list/
-    description: "Homework and Lab Assignments"
-  - title: Lectures
-    url: /lec_list/
-    description: "Lecture-related information"
-  - title: Staff + Office Hours
+  # - title: Calendar
+  #   url: /info/calendar/
+  #   description: "Assignment Calendar"
+  # - title: Assignments
+  #   url: /work_list/
+  #   description: "Homework and Lab Assignments"
+  # - title: Lectures
+  #   url: /lec_list/
+  #   description: "Lecture-related information"
+  - title: Weekly schedule
     dropdown:
     url: /info/staff/
-    description: "Staff information + Office Hours"
+    description: "Lecture + Office Hours"
 
   - title: Links
-    dropdown:	 
-       - title: Gauchospace
-         url: https://gauchospace.ucsb.edu
-         description: "Overall Grade Information"
-       - title: GradeScope
-         url: https://gradescope.com
-         description: "HW and Lab Grades"
-       - title: Piazza
-         url: https://piazza.com
-         description: "Q&A Forum"
+    dropdown:
+      - title: pstat115.lsit.ucsb.edu
+        url: https://bit.ly/3kZ2sVr
+        description: "Sync material to the cloud"
+      - title: Piazza
+        url: https://piazza.com/ucsb/fall2020/pstat115
+      - title: Calender
+        url: https://ucsb-pstat115.github.io/web/info/staff/
+        description: Lecture, section and office hours
+      - title: Lecture link
+        url: https://ucsb.zoom.us/j/86937803425?pwd=cnNnOUhZWUlkc2ZvN3JWUENiWGVmUT09
+        description: zoom link to lecture
+      - title: Lecture recordings
+        url: https://drive.google.com/drive/folders/11N47BFhcqS-Ha9QhwvsSN2JrCpAT3e2l?usp=sharing
+      - title: Gradescope
+        url: https://www.gradescope.com/courses/183592
+      - title: Piazza
+        url: https://piazza.com/ucsb/fall2020/pstat115
+        description: "Q&A Forum"

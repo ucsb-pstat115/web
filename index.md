@@ -8,12 +8,7 @@ title: Fall 2020: PSTAT 115: Introduction to Bayesian Data Analysis
 
 ## Important course links:
 
-- [Sync content to pstat115.lsit.ucsb.edu](https://bit.ly/3kZ2sVr)
-- [Piazza](https://piazza.com/ucsb/fall2020/pstat115)
-- [Office hours schedule](https://ucsb-pstat115.github.io/web/info/staff/)
-- [Zoom link for lecture](https://ucsb.zoom.us/j/86937803425?pwd=cnNnOUhZWUlkc2ZvN3JWUENiWGVmUT09)
-- [Lecture recordings](https://drive.google.com/drive/folders/11N47BFhcqS-Ha9QhwvsSN2JrCpAT3e2l?usp=sharing)
-- [Gradescope](https://www.gradescope.com/courses/183592)
+o
 
 <!-- {% include collapse-button.html label="Information" id="info-list" %} -->
 <!-- <div class="collapse" id="info-list"> -->
