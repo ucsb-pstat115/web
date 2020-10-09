@@ -77,7 +77,8 @@ We ask that when you have a question about the class that might be relevant to o
 ## Support
 You are not alone in this course; the mentors (staff and the instructors) are here to support you as you learn the material. It's expected that some aspects of the course will take time to master, and the best way to master challenging material is to ask questions. 
 
-We will be using Zoom to hold office hours and lab hours.
+We will be using Zoom to hold office hours and lab hours. The schedule and links
+to office hours can be found [here](https://ucsb-pstat115.github.io/web/info/schedule/).
 
 # ASSESSMENTS AND GRADES<a name="grades"></a>
 Your mastery of class material will be assessed in the following ways, and final grades will be computed as follows:
