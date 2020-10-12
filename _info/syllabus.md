@@ -97,14 +97,18 @@ The participation portion of your grade will also include providing good answers
 
 ## Assignments <a name="hwk"></a>
 
-Weekly homework assignments are a required part of the course. Each student must submit each homework independently, but you are allowed to discuss problems with other students without directly sharing the answers. Make a serious attempt at the assignment yourself, and then discuss your doubts with others. In this way you, and they, will get more out of the discussion. Please write up your answers in your own words and don't share your completed work. *You are never allowed to directly copy and paste somebody else's code*.
+Weekly homework assignments are a required part of the course. You are allowed
+to work with one partner.  When submiting to [gradescope](https://www.gradescope.com/courses/183592),  you must include
+your partners name (link the submission), so that you both get full credit!
 
-## Labs
+## Section
 
-
+- Section attendance is strongly encouraged and can boost your participation grade
+- Section content will be uploaded to the Rstudio environment 
 
 ## Exams
 
+Exams will be take-home.  More information will be available later in the course.
 
 ## Late Policy<a name="late-policy"></a>
 
