@@ -37,6 +37,10 @@ offering_links:
     url: /info/schedule/
     description: "Lecture + Office Hours"
 
+  - title: Animations
+    url: /info/animations/
+    description: "Animations from class lecture"
+
   - title: Links
     dropdown:
       - title: pstat115.lsit.ucsb.edu
