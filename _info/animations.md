@@ -6,5 +6,4 @@ ready: true
 
 ## Animations
 
-<img src="gifs/bball.gif">
-
+<img src="/web/info/gifs/bball.gif">
