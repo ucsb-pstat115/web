@@ -13,6 +13,6 @@ ready: true
 
 ### Quantiles and Highester Posterior Density (10/21 lecture)
 
-<img src="/web/info/gifs/beta_hpd.gif" style="width:48px;height:48px;">
+<img src="/web/info/gifs/beta_hpd.gif" style="width:48px; height: auto;">
 
-<img src="/web/info/gifs/hpd_v_quantile.gif" style="width:48px;height:48px;">
+<img src="/web/info/gifs/hpd_v_quantile.gif" style="width: 48px; height: auto;">
