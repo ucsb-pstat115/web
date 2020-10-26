@@ -26,13 +26,13 @@ ready: true
 
 <div class="row">
   <div class="column">
-    <img src="/web/info/gifs/rs_gif-1.gif" style="width:200px; height: auto;">
+    <img src="/web/info/gifs/rs_gif-1.gif" style="width:300px; height: auto;">
   </div>
   <div class="column">
-    <img src="/web/info/gifs/rs_gif2-1.gif" style="width:200px; height: auto;">
-  </div>n
+    <img src="/web/info/gifs/rs_gif2-1.gif" style="width:300px; height: auto;">
+  </div>
   <div class="column">
-    <img src="/web/info/gifs/rs_gif3-1.gif" style="width:200px; height: auto;">
+    <img src="/web/info/gifs/rs_gif3-1.gif" style="width:300px; height: auto;">
   </div>
 </div>
 
