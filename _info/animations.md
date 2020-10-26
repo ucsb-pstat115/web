@@ -16,3 +16,20 @@ ready: true
 <img src="/web/info/gifs/beta_hpd.gif" style="width:600px; height: auto;">
 
 <img src="/web/info/gifs/hpd_v_quantile.gif" style="width: 600px; height: auto;">
+
+
+### Monte Carlo Sampling (10/26)
+
+<div class="row">
+  <div class="column">
+    <img src="/web/info/gifs/rs_gif1-1.gif" style="width:200px; height: auto;">
+  </div>
+  <div class="column">
+    <img src="/web/info/gifs/rs_gif2-1.gif" style="width:200px; height: auto;">
+  </div>n
+  <div class="column">
+    <img src="/web/info/gifs/rs_gif3-1.gif" style="width:200px; height: auto;">
+  </div>
+</div>
+
+
