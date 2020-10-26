@@ -20,9 +20,13 @@ ready: true
 
 ### Monte Carlo Sampling (10/26)
 
+
+<img src="/web/info/gifs/inversion.gif" style="width: 600px; height: auto;">
+
+
 <div class="row">
   <div class="column">
-    <img src="/web/info/gifs/rs_gif1-1.gif" style="width:200px; height: auto;">
+    <img src="/web/info/gifs/rs_gif-1.gif" style="width:200px; height: auto;">
   </div>
   <div class="column">
     <img src="/web/info/gifs/rs_gif2-1.gif" style="width:200px; height: auto;">
