@@ -20,10 +20,10 @@ ready: true
 
 ### Monte Carlo Sampling (10/26)
 
-
+#### Inversion Sampling
 <img src="/web/info/gifs/inversion.gif" style="width: 600px; height: auto;">
 
-
+#### Rejection Sampling
 <div class="row">
   <div class="column">
     <img src="/web/info/gifs/rs_gif-1.gif" style="width:300px; height: auto;">
