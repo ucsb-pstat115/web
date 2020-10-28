@@ -20,6 +20,19 @@ ready: true
 
 ### Monte Carlo Sampling (10/26)
 
+#### Monte Carlo Estimates of Probabilities
+<div class="row">
+  <div class="column">
+    <img src="/web/info/gifs/cdf_z_zero.gif" style="width:300px; height: auto;">
+  </div>
+  <div class="column">
+    <img src="/web/info/gifs/cdf_z_95.gif" style="width:300px; height: auto;">
+  </div>
+</div>
+
+
+
+
 #### Inversion Sampling
 <img src="/web/info/gifs/inversion.gif" style="width: 600px; height: auto;">
 
