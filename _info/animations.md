@@ -56,10 +56,10 @@ ready: true
 
 <div class="row">
   <div class="column">
-    <img src="/web/info/gifs/metrop-example-1.gif" style="width:450px; height: auto;">
+    <img src="/web/info/gifs/metrop_example-1.gif" style="width:450px; height: auto;">
   </div>
   <div class="column">
-    <img src="/web/info/gifs/metrop-example2-1.gif" style="width:450px; height: auto;">
+    <img src="/web/info/gifs/metrop_example2-1.gif" style="width:450px; height: auto;">
   </div>
 </div>
 
