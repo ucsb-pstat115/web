@@ -46,4 +46,27 @@ ready: true
   </div>
 </div>
 
+### Markov Chain Monte Carlo (11/16 - 11/)
+
+#### Independence Sampling
+
+<img src="/web/info/gifs/indep_side_by_side-1.gif" style="width: 600px; height: auto;">
+
+#### Metropolis-Hastings
+
+<div class="row">
+  <div class="column">
+    <img src="/web/info/gifs/metrop-example-1.gif" style="width:450px; height: auto;">
+  </div>
+  <div class="column">
+    <img src="/web/info/gifs/metrop-example2-1.gif" style="width:450px; height: auto;">
+  </div>
+</div>
+
+<img src="/web/info/gifs/metrop_side_by_side_05-1.gif" style="width: 600px; height: auto;">
+
+<img src="/web/info/gifs/metrop_side_by_side_2-1.gif" style="width: 600px; height: auto;">
+
+
+
 
