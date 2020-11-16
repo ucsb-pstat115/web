@@ -50,7 +50,7 @@ ready: true
 
 #### Independence Sampling
 
-<img src="/web/info/gifs/indep_side_by_side-1.gif" style="width: 600px; height: auto;">
+<img src="/web/info/gifs/indep_side_by_side-1.gif" style="width: 800px; height: auto;">
 
 #### Metropolis-Hastings
 
@@ -63,9 +63,9 @@ ready: true
   </div>
 </div>
 
-<img src="/web/info/gifs/metrop_side_by_side_05-1.gif" style="width: 600px; height: auto;">
+<img src="/web/info/gifs/metrop_side_by_side_05-1.gif" style="width: 800px; height: auto;">
 
-<img src="/web/info/gifs/metrop_side_by_side_2-1.gif" style="width: 600px; height: auto;">
+<img src="/web/info/gifs/metrop_side_by_side_2-1.gif" style="width: 800px; height: auto;">
 
 
 
