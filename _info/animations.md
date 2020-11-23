@@ -39,7 +39,7 @@ ready: true
 
 <button type="button" class="collapsible">Open Collapsible</button>
 <div>
-<img src="/web/info/gifs/bball.gif">
+<p><img src="/web/info/gifs/bball.gif"></p>
 </div>
 
 
