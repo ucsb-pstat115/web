@@ -60,7 +60,7 @@ ready: true
 </div>
 </details>
 
-### Markov Chain Monte Carlo (11/16 - 11/)
+### Markov Chain Monte Carlo (11/16)
 
 <details>
 <summary>Independence Sampling </summary>
@@ -89,5 +89,31 @@ ready: true
 <img src="/web/info/gifs/metrop_side_by_side_2-1.gif" style="width: 800px; height: auto;">
 </details>
 
+### Markov Chain Monte Carlo (11/22)
+
+<details>
+<summary>Bivariate, two chains, large jump</summary>
+<img src="/web/info/gifs/midge_ani2-1.gif" style="width: 800px; height: auto;">
+</details>
+<details>
+<summary>Bivariate, two chains, small jump </summary>
+<img src="/web/info/gifs/midge_ani2-1.gif" style="width: 800px; height: auto;">
+</details>
+
+
+<details>
+<summary>Gibbs Sampling</summary>
+<div class="row">
+  <div class="column">
+    <img src="/web/info/gifs/normal_samples_01-1.gif" style="width:450px; height: auto;">
+  </div>
+  <div class="column">
+    <img src="/web/info/gifs/normal_samples_05-1.gif" style="width:450px; height: auto;">
+  </div>
+    <div class="column">
+    <img src="/web/info/gifs/normal_samples_09-1.gif" style="width:450px; height: auto;">
+  </div>
+</div>
+</details>
 
 
