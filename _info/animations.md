@@ -29,6 +29,8 @@ ready: true
 ### Monte Carlo Sampling (10/26)
 
 #### Monte Carlo Estimates of Probabilities
+<details>
+<summary>Monte Carlo </summary>
 <div class="row">
   <div class="column">
     <img src="/web/info/gifs/cdf_z_zero.gif" style="width:450px; height: auto;">
@@ -37,9 +39,13 @@ ready: true
     <img src="/web/info/gifs/cdf_z_95.gif" style="width:450px; height: auto;">
   </div>
 </div>
+</details>
 
 #### Inversion Sampling
+<details>
+<summary>Inversion Sampling</summary>
 <img src="/web/info/gifs/inversion.gif" style="width: 600px; height: auto;">
+</details>
 
 #### Rejection Sampling
 <div class="row">
