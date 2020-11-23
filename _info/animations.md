@@ -46,8 +46,10 @@ ready: true
 <p><img src="/web/info/gifs/bball.gif"></p>
 </div>
 
-
-
+<details>
+<summary>This is what you want to show before expanding</summary>
+<img src="/web/info/gifs/bball.gif">
+</details>
 ### Quantiles and Highester Posterior Density (10/21 lecture)
 
 <img src="/web/info/gifs/beta_hpd.gif" style="width:600px; height: auto;">
