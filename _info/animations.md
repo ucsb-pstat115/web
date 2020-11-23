@@ -10,7 +10,7 @@ ready: true
 
 ### Basketball animation from 10/19 lecture
 <details>
-<summary><h2>Basketball histogram<h2></summary>
+<summary>Basketball histogram</summary>
 <img src="/web/info/gifs/bball.gif">
 </details>
 
