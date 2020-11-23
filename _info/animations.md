@@ -36,6 +36,11 @@ ready: true
 
 ### Basketball animation from 10/19 lecture
 
+<button type="button" class="collapsible">TEST</button>
+<div class="content">
+  <p>Lorem ipsum...</p>
+  <img src="/web/info/gifs/bball.gif">
+</div>
 
 <button type="button" class="collapsible">Open Collapsible</button>
 <div>
