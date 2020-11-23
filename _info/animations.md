@@ -103,9 +103,15 @@ ready: true
 
 <details>
 <summary>Gibbs Sampling</summary>
-<img src="/web/info/gifs/normal_samples_01-1.gif" style="width:550px; height: auto;">
-<img src="/web/info/gifs/normal_samples_05-1.gif" style="width:550px; height: auto;">
-<img src="/web/info/gifs/normal_samples_09-1.gif" style="width:550px; height: auto;">
+<div class="row">
+  <img src="/web/info/gifs/normal_samples_01-1.gif" style="width:550px; height: auto;">
+</div>
+<div class="row">
+  <img src="/web/info/gifs/normal_samples_05-1.gif" style="width:550px; height: auto;">
+</div>
+<div class="row">
+  <img src="/web/info/gifs/normal_samples_09-1.gif" style="width:550px; height: auto;">
+</div>
 </details>
 
 
