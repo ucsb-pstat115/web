@@ -102,7 +102,13 @@ ready: true
 
 
 <details>
-<summary>Gibbs Sampling</summary>
+<summary>Gibbs Sampling Midge Fly</summary>
+  <img src="/web/info/gifs/gibbs-1.gif" style="width:550px; height: auto;">
+</details>
+<summary>
+
+<details>
+<summary>Gibbs Sampling Bivariate Normal</summary>
 <div class="row">
   <img src="/web/info/gifs/normal_samples_01-1.gif" style="width:550px; height: auto;">
 </div>
