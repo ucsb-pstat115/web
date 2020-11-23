@@ -4,6 +4,7 @@ layout: default
 ready: true
 ---
 
+<style>
 /* Style the button that is used to open and close the collapsible content */
 .collapsible {
   background-color: #eee;
@@ -29,6 +30,7 @@ ready: true
   overflow: hidden;
   background-color: #f1f1f1;
 }
+</style>
 
 ## Animations
 
