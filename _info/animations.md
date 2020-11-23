@@ -103,17 +103,9 @@ ready: true
 
 <details>
 <summary>Gibbs Sampling</summary>
-<div class="row">
-  <div class="column">
-    <img src="/web/info/gifs/normal_samples_01-1.gif" style="width:450px; height: auto;">
-  </div>
-  <div class="column">
-    <img src="/web/info/gifs/normal_samples_05-1.gif" style="width:450px; height: auto;">
-  </div>
-    <div class="column">
-    <img src="/web/info/gifs/normal_samples_09-1.gif" style="width:450px; height: auto;">
-  </div>
-</div>
+<img src="/web/info/gifs/normal_samples_01-1.gif" style="width:550px; height: auto;">
+<img src="/web/info/gifs/normal_samples_05-1.gif" style="width:550px; height: auto;">
+<img src="/web/info/gifs/normal_samples_09-1.gif" style="width:550px; height: auto;">
 </details>
 
 
