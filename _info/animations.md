@@ -28,9 +28,8 @@ ready: true
 
 ### Monte Carlo Sampling (10/26)
 
-#### Monte Carlo Estimates of Probabilities
 <details>
-<summary>Monte Carlo </summary>
+<summary>Monte Carlo Estimates of Probabilities</summary>
 <div class="row">
   <div class="column">
     <img src="/web/info/gifs/cdf_z_zero.gif" style="width:450px; height: auto;">
@@ -41,13 +40,13 @@ ready: true
 </div>
 </details>
 
-#### Inversion Sampling
 <details>
 <summary>Inversion Sampling</summary>
 <img src="/web/info/gifs/inversion.gif" style="width: 600px; height: auto;">
 </details>
 
-#### Rejection Sampling
+<details>
+<summary>Rejection Sampling </summary>
 <div class="row">
   <div class="column">
     <img src="/web/info/gifs/rs_gif-1.gif" style="width:300px; height: auto;">
@@ -59,15 +58,18 @@ ready: true
     <img src="/web/info/gifs/rs_gif3-1.gif" style="width:300px; height: auto;">
   </div>
 </div>
+</details>
 
 ### Markov Chain Monte Carlo (11/16 - 11/)
 
-#### Independence Sampling
-
+<details>
+<summary>Independence Sampling </summary>
 <img src="/web/info/gifs/indep_side_by_side-1.gif" style="width: 800px; height: auto;">
+</details>
 
-#### Metropolis-Hastings
 
+<details>
+<summary>Metropolis-Hastings</summary>
 <div class="row">
   <div class="column">
     <img src="/web/info/gifs/metrop_example-1.gif" style="width:450px; height: auto;">
@@ -76,11 +78,16 @@ ready: true
     <img src="/web/info/gifs/metrop_example2-1.gif" style="width:450px; height: auto;">
   </div>
 </div>
+</details>
 
+<details>
+<summary>Metropolis-Hastings (small jump)</summary>
 <img src="/web/info/gifs/metrop_side_by_side_05-1.gif" style="width: 800px; height: auto;">
-
+</details>
+<details>
+<summary>Metropolis-Hastings (large jump) </summary>
 <img src="/web/info/gifs/metrop_side_by_side_2-1.gif" style="width: 800px; height: auto;">
-
+</details>
 
 
 
