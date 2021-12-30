@@ -2,7 +2,7 @@
 title: Fall 2020: PSTAT 115: Introduction to Bayesian Data Analysis
 ---
 
-# Fall 2020: PSTAT 115: Introduction to Bayesian Data Analysis
+# Winter 2022: PSTAT 115: Introduction to Bayesian Data Analysis
 
 In this course, we will explore the data science lifecycle: question formulation, data collection & cleaning, exploratory data analysis & visualization, statistical inference and prediction, and decision-making.
 
