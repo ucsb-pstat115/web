@@ -10,16 +10,16 @@ baseurl: "/web"  # the subpath of your site "/" for main, "/w19" for instance
 title: "PSTAT 115"
 course: "PSTAT 115"
 github_url: https://github.com/ucsb-pstat115/web
-qtr: "F20"
-quarter: "Fall 2020"
+qtr: "F22"
+quarter: "Fall 2022"
 
 suppress_footer: true # hide the footer
 
 start_week: 1
-start_date: 2020-03-29 00:00:00.00-8:00 # Has to start on a Sunday
+start_date: 2022-01-03 00:00:00.00-8:00 # Has to start on a Sunday
 num_weeks: 10
 extra_exam_week: true
-lecture_days_of_week: TR
+lecture_days_of_week: MW
 
 cal_dates: >                                                                    
   [                                                                            
