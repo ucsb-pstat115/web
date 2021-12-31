@@ -19,11 +19,11 @@ home:
    baseurl: /web
 
 offerings:
-   title: <b>F20</b>
+   title: <b>W22</b>
    url: /
    baseurl: /web
    items:
-      - title: F20
+      - title: W22
         url: /
         baseurl: /web
 
