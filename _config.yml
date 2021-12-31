@@ -5,7 +5,7 @@ plugins:
 remote_theme: ucsb-cs-course-repos/course-repo-jekyll-theme
 
 url: https://ucsb-pstat115.github.io # the base hostname & protocol for your site
-baseurl: ""  # the subpath of your site "/" for main, "/w19" for instance
+baseurl: "/web"  # the subpath of your site "/" for main, "/w19" for instance
 
 title: "PSTAT 115"
 course: "PSTAT 115"
