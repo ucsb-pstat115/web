@@ -70,7 +70,7 @@ The computing platform (Jupyter Notebooks) for the course is hosted at [https://
 
 
 #### Contact us on Piazza!
-We will be communicating with you and making announcements through an online question-and-answer platform called [Piazza](http://piazza.com). Our class page is here: [https://piazza.com/ucsb/fall2020/pstat115](https://piazza.com/ucsb/fall2020/pstat115)
+We will be communicating with you and making announcements through an online question-and-answer platform called [Piazza](http://piazza.com). Our class page is here: [https://piazza.com/ucsb/winter2022/pstat115](https://piazza.com/ucsb/winter2022/pstat115)
 
 We ask that when you have a question about the class that might be relevant to other students, post it on Piazza **instead of emailing us** (if you wish, you can post your question anonymously to your classmates). That way, all the staff can be on the same page and everyone can benefit from the response. You can also post private messages to instructors on Piazza, which we prefer to email.
 
@@ -144,7 +144,7 @@ Similarly, you own the copyright in your original papers and exam essays. If I a
 
 ## Disclaimer
 
-The rest of this page details the policies that will be enforced in the **Fall 2020** offering of this course. These policies are subject to change throughout the remainder of the course, at the judgement of the course staff (with a potential announcement on Piazza).
+The rest of this page details the policies that will be enforced in the **Winter 2022** offering of this course. These policies are subject to change throughout the remainder of the course, at the judgement of the course staff (with a potential announcement on Piazza).
 
 
-Last major revision: October 8, 2020
+Last major revision: December 31, 2021
