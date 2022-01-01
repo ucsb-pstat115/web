@@ -26,10 +26,7 @@ offerings:
         baseurl: /web
 
 
-offering_links:
-  - title: Syllabus
-    url: /info/syllabus/
-    description: "University and course policies"    
+offering_links: 
 
   - title: Weekly schedule
     url: /info/schedule/
