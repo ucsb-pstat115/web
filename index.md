@@ -38,10 +38,8 @@ PSTAT 120B and PSTAT126 or equivalent.  All prerequisites with letter grade C or
 **Programming experience:** Intermediate familiarity with R and Rmarkdown is
 required.
 
-## Course Description: <a name="course-description"></a>
+## Course Topics: <a name="course-description"></a>
 
-
-## Course Topics:<a name="topics"></a>
 At the end of the course, a successful student will be able to  build and refine
 statistical models using the Bayesian paradigm and utilize Monte Carlo methods
 for statistical inference.  Topics include:
