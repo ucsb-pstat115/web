@@ -15,7 +15,7 @@ production_url: https://ucsb-pstat115.github.io/
 
 home:
    title: UCSB PSTAT 115
-   url: /
+   url: /web
    baseurl: /web
 
 offerings:
@@ -24,7 +24,7 @@ offerings:
    baseurl: /web
    items:
       - title: W22
-        url: /
+        url: /web
         baseurl: /web
 
 
@@ -52,7 +52,7 @@ offering_links:
       - title: Lecture recordings
         url: 
       - title: Gradescope
-        url: 
+        url: https://www.gradescope.com/courses/344698
       - title: Nectir
         url: https://ucsb.nectir.io/group/pstat115-w22
         description: "Q&A Forum"
