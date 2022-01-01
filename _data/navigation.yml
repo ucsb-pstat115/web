@@ -56,3 +56,6 @@ offering_links:
       - title: Nectir
         url: https://ucsb.nectir.io/group/pstat115-w22
         description: "Q&A Forum"
+      - title: Texbook
+        url: https://www.bayesrulesbook.com/
+        description: Course textbook: Bayes Rules
