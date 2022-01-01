@@ -53,6 +53,7 @@ for statistical inference.  Topics include:
 
 ## Textbook
 - **Required** Alicia A. Johnson, Miles Q. Ott, Mine Dogucu __Bayes Rules__ [https://www.bayesrulesbook.com/] ([https://www.bayesrulesbook.com/])
+Additional optional resources:
 - **Optional:** Jim Albert __Bayesian Computation with R__ [https://www.springer.com/us/book/9780387922973](https://www.springer.com/us/book/9780387922973)
 - **Optional:** Richard McElreath __Statistical Rethinking__;  [https://xcelab.net/rm/statistical-rethinking/](https://xcelab.net/rm/statistical-rethinking/)
 - **Optional:** Andrew Gelman, John Carlin et al. __Bayesian
@@ -90,7 +91,7 @@ The participation portion of your grade will also include providing good answers
 ## Assignments <a name="hwk"></a>
 
 Weekly homework assignments are a required part of the course. You are allowed
-to work with one partner.  When submiting to [gradescope](https://www.gradescope.com/courses/183592),  you must include
+to work with one partner.  When submiting to [gradescope](https://www.gradescope.com/courses/344698),  you must include
 your partners name (link the submission), so that you both get full credit!
 
 ## Section
@@ -100,7 +101,7 @@ your partners name (link the submission), so that you both get full credit!
 
 ## Exams
 
-Exams will be take-home.  More information will be available later in the course.
+We will decide 1-2 weeks in advance whether the exams will be in person or take-home (depending on whether we are still remote).  More information will be available later in the course.
 
 ## Late Policy<a name="late-policy"></a>
 
@@ -121,7 +122,7 @@ Rather than copying someone else's work, ask for help. You are not alone in this
 
 ## Slides and Recordings <a name="recordings"></a>
 
-All lecture material including slides will be posted after class on the cloud server.  Recordings of the lectures will also be posted.
+All lecture material including slides will be posted after class on the cloud server.  Recordings of the remote lectures will also be posted.
 
 ## Copyright of Course Materials <a name="copyright"></a>
 
@@ -136,7 +137,7 @@ Similarly, you own the copyright in your original papers and exam essays. If I a
 
 ## Disclaimer
 
-The rest of this page details the policies that will be enforced in the **Winter 2022** offering of this course. These policies are subject to change throughout the remainder of the course, at the judgement of the course staff (with a potential announcement on Piazza).
+The rest of this page details the policies that will be enforced in the **Winter 2022** offering of this course. These policies are subject to change throughout the remainder of the course, at the judgement of the course staff.
 
 
 Last major revision: December 31, 2021
