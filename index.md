@@ -6,23 +6,6 @@ title: Fall 2022: PSTAT 115: Introduction to Bayesian Data Analysis
 
 In this course, we will explore the data science lifecycle: question formulation, data collection & cleaning, exploratory data analysis & visualization, statistical inference and prediction, and decision-making.
 
-
-**Instructor:** Professor Alexander Franks
-
-**Prerequisites:** PSTAT 120B, PSTAT 126
-
-**Catalog description:** An introduction to the Bayesian approach to statistical inference, its theoretical foundations and comparison to classical methods. Topics include parameter estimation, testing, prediction and computational methods (Markov Chain Monte Carlo simulation). Emphasis on concepts, methods and data analysis. Extensive use of the R programming language and examples from the social, biological and physical sciences to illustrate concepts.
-
-**Programming experience:** Intermediate familiarity with R and Rmarkdown is
-required.
-
-Learning by doing will require software documentation, experimenting by trial-and-error, and lots of debugging. 
-We are looking for self-motivated students with diverse interests in data science.
-
-Link to this page: <https://ucsb-pstat115.github.io/web>
-
-# Syllabus <a name="top"></a>
-
 This document and others linked within it should be your PRIMARY source for understanding the expectations of this course. Be sure to read it *carefully*.
 You must contact the instructor for clarification if you receive information from any other source that is in contradiction to what is provided below.
 
@@ -50,7 +33,10 @@ Below are the links to different sections of the syllabus:
 * **ULAs** Siming Su, Eric Bletcher and Wenxuan Zhang
 
 ## Prerequisites: <a name="prerequisites"></a>
-PSTAT 10 , PSTAT 120B, an PSTAT126 or equivalent.  All prerequisites with letter grade C or better.
+PSTAT 120B and PSTAT126 or equivalent.  All prerequisites with letter grade C or better.
+
+**Programming experience:** Intermediate familiarity with R and Rmarkdown is
+required.
 
 ## Course Description: <a name="course-description"></a>
 
