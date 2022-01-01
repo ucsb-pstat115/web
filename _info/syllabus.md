@@ -77,8 +77,8 @@ Your mastery of class material will be assessed in the following ways, and final
 *	5% Class Participation
 *	10% Quizzes
 *	35% Homework Assignments
-*  20% Midterm Exam (Take home, due November 9, 2020)
-*	30% Final Exam (Take home, due Monday December 16, 2020)
+*  20% Midterm Exam (Monday February 7, 2022)
+*	30% Final Exam (Wednesday, March 16, 2022)
 
 It is certainly possible for all students to receive high grades in this course if all of you show mastery of the homework and lab material.
 
