@@ -24,19 +24,13 @@ Below are the links to different sections of the syllabus:
 * [Remote Instruction](#remote)
    * [Slides and Lecture Recordings](#recordings)
    * [Copyrights](#copyright)
-    
-
-## An Opening Thought
-This is a very stressful and unusual time for all of us.  We recognize that many
-of you are sheltering in different parts of the world. First and foremost, make
-sure you take care of yourselves and your friends and family. With that in mind, we are very excited to share this course with you. We want you to learn and have a great time in the process. Let this class be an escape from some of the uncertainty in the rest of the world. 
 
 # COURSE INFORMATION <a name="course-info"></a>
 
 * **Instructor**: Alex Franks
-* **Lecture**: Monday and Wednesday, 11:00am-12:15pm
-* **TAs**: Dorothy Li and Xubo Liu
-* **ULA** Mathew Coleman
+* **Lecture**: Monday and Wednesday, 9:30am-10:45pm
+* **TAs**: Jeffrey Wu and Moya Xiong
+* **ULAs** Siming Su, Eric Bletcher and Wenxuan Zhang
 
 ## Prerequisites: <a name="prerequisites"></a>
 PSTAT 10 , PSTAT 120B, an PSTAT126 or equivalent.  All prerequisites with letter grade C or better.
@@ -58,27 +52,25 @@ for statistical inference.  Topics include:
 - An introduction to probabilistic programming
 
 ## Textbook
-- **Required:** Peter Hoff __A First Course in Bayesian Statistical Methods__ ;
-[https://www.springer.com/us/book/9780387922997](https://www.springer.com/us/book/9780387922997).
-(pdf available on the cloud environment)
+- **Required** Alicia A. Johnson, Miles Q. Ott, Mine Dogucu __Bayes Rules__ [https://www.bayesrulesbook.com/] ([https://www.bayesrulesbook.com/])
 - **Optional:** Jim Albert __Bayesian Computation with R__ [https://www.springer.com/us/book/9780387922973](https://www.springer.com/us/book/9780387922973)
 - **Optional:** Richard McElreath __Statistical Rethinking__;  [https://xcelab.net/rm/statistical-rethinking/](https://xcelab.net/rm/statistical-rethinking/)
 - **Optional:** Andrew Gelman, John Carlin et al. __Bayesian
         Data Analysis__;  [http://www.stat.columbia.edu/~gelman/book/](http://www.stat.columbia.edu/~gelman/book/)
 
-The computing platform (Jupyter Notebooks) for the course is hosted at [https://bit.ly/3kZ2sVr](https://ds100.lsit.ucsb.edu/).  *All of your work should be completed here.*
+The computing platform (Jupyter Notebooks) for the course is hosted at [](https://pstat115.lsit.ucsb.edu/).  *All of your work should be completed here.*
 
 
-#### Contact us on Piazza!
-We will be communicating with you and making announcements through an online question-and-answer platform called [Piazza](http://piazza.com). Our class page is here: [https://piazza.com/ucsb/winter2022/pstat115](https://piazza.com/ucsb/winter2022/pstat115)
+#### Contact us on Nectir!
+All class related questions should be handled through Nectir. Our class page is here: [https://ucsb.nectir.io/group/pstat115-w22](https://ucsb.nectir.io/group/pstat115-w22).  An invite link was sent out via Gauchospace.
 
-We ask that when you have a question about the class that might be relevant to other students, post it on Piazza **instead of emailing us** (if you wish, you can post your question anonymously to your classmates). That way, all the staff can be on the same page and everyone can benefit from the response. You can also post private messages to instructors on Piazza, which we prefer to email.
+We ask that when you have a question about the class that might be relevant to other students, post it on Nectir **instead of emailing us**. That way, all the staff can be on the same page and everyone can benefit from the response. 
 
 ## Support
 You are not alone in this course; the mentors (staff and the instructors) are here to support you as you learn the material. It's expected that some aspects of the course will take time to master, and the best way to master challenging material is to ask questions. 
 
-We will be using Zoom to hold office hours and lab hours. The schedule and links
-to office hours can be found [here](https://ucsb-pstat115.github.io/web/info/schedule/).
+For the first two weeks we will be using Zoom to hold office hours and lab hours. The schedule and links
+to office hours can be found [here](https://ucsb-pstat115.github.io/web/info/schedule/). We will update you when we have information about returning in person.
 
 # ASSESSMENTS AND GRADES<a name="grades"></a>
 Your mastery of class material will be assessed in the following ways, and final grades will be computed as follows:
