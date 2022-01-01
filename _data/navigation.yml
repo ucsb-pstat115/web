@@ -15,8 +15,6 @@ production_url: https://ucsb-pstat115.github.io/
 
 home:
    title: UCSB PSTAT 115
-   url: /web
-   baseurl: /web
 
 offerings:
    title: <b>W22</b>
