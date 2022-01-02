@@ -53,7 +53,7 @@ for statistical inference.  Topics include:
 - An introduction to probabilistic programming
 
 ## Textbook
-- **Required** Alicia A. Johnson, Miles Q. Ott, Mine Dogucu __Bayes Rules__ [https://www.bayesrulesbook.com/] ([https://www.bayesrulesbook.com/])
+- **Required** Alicia A. Johnson, Miles Q. Ott, Mine Dogucu __Bayes Rules__ [https://www.bayesrulesbook.com/]([https://www.bayesrulesbook.com/])
 Additional optional resources:
 - **Optional:** Jim Albert __Bayesian Computation with R__ [https://www.springer.com/us/book/9780387922973](https://www.springer.com/us/book/9780387922973)
 - **Optional:** Richard McElreath __Statistical Rethinking__;  [https://xcelab.net/rm/statistical-rethinking/](https://xcelab.net/rm/statistical-rethinking/)
