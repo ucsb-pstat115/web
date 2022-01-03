@@ -53,14 +53,14 @@ for statistical inference.  Topics include:
 - An introduction to probabilistic programming
 
 ## Textbook
-- **Required** Alicia A. Johnson, Miles Q. Ott, Mine Dogucu __Bayes Rules__ [https://www.bayesrulesbook.com/]([https://www.bayesrulesbook.com/])
+- **Required** Alicia A. Johnson, Miles Q. Ott, Mine Dogucu __Bayes Rules__ [https://www.bayesrulesbook.com/](https://www.bayesrulesbook.com/)
 Additional optional resources:
 - **Optional:** Jim Albert __Bayesian Computation with R__ [https://www.springer.com/us/book/9780387922973](https://www.springer.com/us/book/9780387922973)
 - **Optional:** Richard McElreath __Statistical Rethinking__;  [https://xcelab.net/rm/statistical-rethinking/](https://xcelab.net/rm/statistical-rethinking/)
 - **Optional:** Andrew Gelman, John Carlin et al. __Bayesian
         Data Analysis__;  [http://www.stat.columbia.edu/~gelman/book/](http://www.stat.columbia.edu/~gelman/book/)
 
-The computing platform (Jupyter Notebooks) for the course is hosted at [](https://pstat115.lsit.ucsb.edu/).  *All of your work should be completed here.*
+The computing platform (Jupyter Notebooks) for the course is hosted at [https://bit.ly/3mSOXtM](https://bit.ly/3mSOXtM).  *All of your work should be completed here. BOOKMARK THIS LINK.*
 
 
 #### Contact us on Nectir!
