@@ -32,13 +32,13 @@ Below are the links to different sections of the syllabus:
 * **TAs**: Jeffrey Wu and Moya Xiong
 * **ULAs** Siming Su, Eric Bletcher and Wenxuan Zhang
 
-## Prerequisites: <a name="prerequisites"></a>
+### Prerequisites: <a name="prerequisites"></a>
 PSTAT 120B and PSTAT126 or equivalent.  All prerequisites with letter grade C or better.
 
 **Programming experience:** Intermediate familiarity with R and Rmarkdown is
 required.
 
-## Course Topics: <a name="course-description"></a>
+### Course Topics: <a name="course-description"></a>
 
 At the end of the course, a successful student will be able to  build and refine
 statistical models using the Bayesian paradigm and utilize Monte Carlo methods
@@ -52,7 +52,7 @@ for statistical inference.  Topics include:
 - Hierarchical models
 - An introduction to probabilistic programming
 
-## Textbook
+### Textbook
 - **Required** Alicia A. Johnson, Miles Q. Ott, Mine Dogucu __Bayes Rules__ [https://www.bayesrulesbook.com/](https://www.bayesrulesbook.com/)
 Additional optional resources:
 - **Optional:** Jim Albert __Bayesian Computation with R__ [https://www.springer.com/us/book/9780387922973](https://www.springer.com/us/book/9780387922973)
@@ -60,15 +60,16 @@ Additional optional resources:
 - **Optional:** Andrew Gelman, John Carlin et al. __Bayesian
         Data Analysis__;  [http://www.stat.columbia.edu/~gelman/book/](http://www.stat.columbia.edu/~gelman/book/)
 
+### Computing Platform
 The computing platform (Jupyter Notebooks) for the course is hosted at [https://bit.ly/3mSOXtM](https://bit.ly/3mSOXtM).  *All of your work should be completed here. BOOKMARK THIS LINK.*
 
 
-#### Contact us on Nectir!
+### Contact us on Nectir!
 All class related questions should be handled through Nectir. Our class page is here: [https://ucsb.nectir.io/group/pstat115-w22](https://ucsb.nectir.io/group/pstat115-w22).  An invite link was sent out via Gauchospace.
 
 We ask that when you have a question about the class that might be relevant to other students, post it on Nectir **instead of emailing us**. That way, all the staff can be on the same page and everyone can benefit from the response. 
 
-## Support
+### Support
 You are not alone in this course; the mentors (staff and the instructors) are here to support you as you learn the material. It's expected that some aspects of the course will take time to master, and the best way to master challenging material is to ask questions. 
 
 For the first two weeks we will be using Zoom to hold office hours and lab hours. The schedule and links
@@ -84,23 +85,23 @@ Your mastery of class material will be assessed in the following ways, and final
 
 It is certainly possible for all students to receive high grades in this course if all of you show mastery of the homework and lab material.
 
-## Participation <a name="participation"></a>
+### Participation <a name="participation"></a>
 Lecture and section attendance is optional but is *highly* encouraged. You are adults and are responsible for your learning. However, everybody benefits when there is more participation and engagement with the material during lab and lecture.
 
 The participation portion of your grade will also include providing good answers on Piazza and engaging with the various activities that the instructor will provide throughout the quarter.
 
-## Assignments <a name="hwk"></a>
+### Assignments <a name="hwk"></a>
 
 Weekly homework assignments are a required part of the course. You are allowed
 to work with one partner.  When submiting to [gradescope](https://www.gradescope.com/courses/344698),  you must include
 your partners name (link the submission), so that you both get full credit!
 
-## Section
+### Section
 
 - Section attendance is strongly encouraged and can boost your participation grade
 - Section content will be uploaded to the Rstudio environment 
 
-## Exams
+### Exams
 
 We will decide 1-2 weeks in advance whether the exams will be in person or take-home (depending on whether we are still remote).  More information will be available later in the course.
 
