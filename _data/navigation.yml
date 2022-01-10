@@ -26,10 +26,7 @@ offerings:
         baseurl: /web
 
 
-offering_links:
-  - title: Syllabus
-    url: /info/syllabus/
-    description: "University and course policies"    
+offering_links: 
 
   - title: Weekly schedule
     url: /info/schedule/
@@ -42,13 +39,13 @@ offering_links:
   - title: Links
     dropdown:
       - title: pstat115.lsit.ucsb.edu
-        url: 
+        url: https://bit.ly/3mSOXtM
         description: "Sync material to the cloud"
       - title: Lecture link
         url: https://ucsb.zoom.us/j/86960464797?pwd=aTdnbFRGSGpBbklEREVhSmpDL3dVdz09
         description: zoom link to lecture
       - title: Lecture recordings
-        url: 
+        url: https://drive.google.com/drive/folders/16OItK0b0wu00wUHDdKJvpPj7i0v1hgt4?usp=sharing
       - title: Gradescope
         url: https://www.gradescope.com/courses/344698
       - title: Nectir
