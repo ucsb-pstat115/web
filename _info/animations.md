@@ -8,11 +8,11 @@ ready: true
 
 
 
-<!-- ### Basketball animation from 10/19 lecture -->
-<!-- <details> -->
-<!-- <summary>Basketball histogram</summary> -->
-<!-- <img src="/web/info/gifs/bball.gif"> -->
-<!-- </details> -->
+### Basketball animation
+<details>
+<summary>Basketball histogram</summary>
+<img src="/web/info/gifs/bball.gif">
+</details>
 
 <!-- ### Quantiles and Highester Posterior Density (10/21 lecture) -->
 
