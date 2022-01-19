@@ -14,17 +14,17 @@ ready: true
 <img src="/web/info/gifs/bball.gif">
 </details>
 
-<!-- ### Quantiles and Highester Posterior Density (10/21 lecture) -->
+### Quantiles and Highester Posterior Density 
 
-<!-- <details> -->
-<!-- <summary>Highest posterior density </summary> -->
-<!-- <img src="/web/info/gifs/beta_hpd.gif" style="width:600px; height: auto;"> -->
-<!-- </details> -->
+<details>
+<summary>Highest posterior density </summary>
+<img src="/web/info/gifs/beta_hpd.gif" style="width:600px; height: auto;">
+</details>
 
-<!-- <details> -->
-<!-- <summary>HPD vs Quantile Interval </summary> -->
-<!-- <img src="/web/info/gifs/hpd_v_quantile.gif" style="width: 600px; height: auto;"> -->
-<!-- </details> -->
+<details>
+<summary>HPD vs Quantile Interval </summary>
+<img src="/web/info/gifs/hpd_v_quantile.gif" style="width: 600px; height: auto;">
+</details>
 
 <!-- ### Monte Carlo Sampling (10/26) -->
 
