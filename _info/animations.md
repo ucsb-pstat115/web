@@ -26,24 +26,24 @@ ready: true
 <img src="/web/info/gifs/hpd_v_quantile.gif" style="width: 600px; height: auto;">
 </details>
 
-<!-- ### Monte Carlo Sampling (10/26) -->
+### Monte Carlo Sampling
 
-<!-- <details> -->
-<!-- <summary>Monte Carlo Estimates of Probabilities</summary> -->
-<!-- <div class="row"> -->
-<!--   <div class="column"> -->
-<!--     <img src="/web/info/gifs/cdf_z_zero.gif" style="width:450px; height: auto;"> -->
-<!--   </div> -->
-<!--   <div class="column"> -->
-<!--     <img src="/web/info/gifs/cdf_z_95.gif" style="width:450px; height: auto;"> -->
-<!--   </div> -->
-<!-- </div> -->
-<!-- </details> -->
+<details>
+<summary>Monte Carlo Estimates of Probabilities</summary>
+<div class="row">
+  <div class="column">
+    <img src="/web/info/gifs/cdf_z_zero.gif" style="width:450px; height: auto;">
+  </div>
+  <div class="column">
+    <img src="/web/info/gifs/cdf_z_95.gif" style="width:450px; height: auto;">
+  </div>
+</div>
+</details>
 
-<!-- <details> -->
-<!-- <summary>Inversion Sampling</summary> -->
-<!-- <img src="/web/info/gifs/inversion.gif" style="width: 600px; height: auto;"> -->
-<!-- </details> -->
+<details>
+<summary>Inversion Sampling</summary>
+<img src="/web/info/gifs/inversion.gif" style="width: 600px; height: auto;">
+</details>
 
 <!-- <details> -->
 <!-- <summary>Rejection Sampling </summary> -->
