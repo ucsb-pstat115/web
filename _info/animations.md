@@ -89,18 +89,17 @@ ready: true
   <img src="/web/info/gifs/gibbs-1.gif" style="width:550px; height: auto;">
 </details>
 <summary>
+</details>
 
-<!-- <details> -->
-<!-- <summary>Gibbs Sampling Bivariate Normal</summary> -->
-<!-- <div class="row"> -->
-<!--   <img src="/web/info/gifs/normal_samples_01-1.gif" style="width:550px; height: auto;"> -->
-<!-- </div> -->
-<!-- <div class="row"> -->
-<!--   <img src="/web/info/gifs/normal_samples_05-1.gif" style="width:550px; height: auto;"> -->
-<!-- </div> -->
-<!-- <div class="row"> -->
-<!--   <img src="/web/info/gifs/normal_samples_09-1.gif" style="width:550px; height: auto;"> -->
-<!-- </div> -->
-<!-- </details> -->
-
-
+<details>
+<summary>Gibbs Sampling Bivariate Normal</summary>
+<div class="row">
+  <img src="/web/info/gifs/normal_samples_01-1.gif" style="width:550px; height: auto;">
+</div>
+<div class="row">
+  <img src="/web/info/gifs/normal_samples_05-1.gif" style="width:550px; height: auto;">
+</div>
+<div class="row">
+  <img src="/web/info/gifs/normal_samples_09-1.gif" style="width:550px; height: auto;">
+</div>
+</details>
