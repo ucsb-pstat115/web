@@ -76,7 +76,7 @@ ready: true
 
 <details>
 <summary>Bivariate, two chains, large jump</summary>
-<img src="/web/info/gifs/midge_ani2-1.gif" style="width: 800px; height: auto;">
+<img src="/web/info/gifs/midge_ani1-1.gif" style="width: 800px; height: auto;">
 </details>
 <details>
 <summary>Bivariate, two chains, small jump </summary>
